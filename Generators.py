@@ -21,7 +21,9 @@ wrd = []
 for i in words2(str, ['  ']):
     if i != '': wrd.append(i)
 print wrd
-print 654654+61654
+print 1
+print 2
+
 
 
 
