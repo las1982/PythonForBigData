@@ -23,7 +23,7 @@ for i in words2(str, ['  ']):
 print wrd
 print 1
 print 2
-
+print 3
 
 
 
