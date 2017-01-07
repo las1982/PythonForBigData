@@ -10,18 +10,18 @@ def words(s):
 print words(str)
 
 def words2(str, sep):
-	ind = (i for i, x in enumerate(str) if x in sep)
-	a = 0
-	for i in ind:
-		yield str[a:i]
-		a = i+1
-	yield str[a:]
+    ind = (i for i, x in enumerate(str) if x in sep)
+    a = 0
+    for i in ind:
+        yield str[a:i]
+        a = i+1
+    yield str[a:]
 
 wrd = []
 for i in words2(str, ['  ']):
-	if i != '': wrd.append(i)
+    if i != '': wrd.append(i)
 print wrd
-
+print 654654+61654
 
 
 
@@ -35,24 +35,24 @@ print mylist, '*******************'
 
 mygenerator = (x*x for x in range(3))
 for i in mygenerator :
-	print(i)
+    print(i)
 print mygenerator, '**********************'
 
 
 def createGenerator() :
-	mylist = range(3)
-	for i in mylist :
-		yield i*i
-		
+    mylist = range(3)
+    for i in mylist :
+        yield i*i
+        
 mygenerator = createGenerator() # ??????? ?????????
 print(mygenerator) # mygenerator ???????? ????????!
 for i in mygenerator:
-	print(i)
-	
-	
+    print(i)
+    
+    
 for i in mygenerator:
-	print(i)
-	
+    print(i)
+    
 
 print mygenerator
 
