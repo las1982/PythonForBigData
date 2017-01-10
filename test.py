@@ -16,12 +16,15 @@ def my_split(st, sep=' '):
 dataFrame = []
 
 # Read line from stdin
-for line in sys.stdin:
+#for line in sys.stdin:
+f = open('net-dump.log', 'r')
+for line in f:
     record = []
     # Split line
     for word in my_split(line):
         record.append(word)
     dataFrame.append(record)
+f.close()
 
 # Remove any records, which is not 'IP'
 dataFrame = filter(lambda x: x[1]=='IP', dataFrame)
