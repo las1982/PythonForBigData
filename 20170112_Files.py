@@ -1,1 +1,10 @@
-raw_input('jljl')
+# raw_input('jljl')
+
+f = open('testRW.txt', 'r+')
+a = []
+for i in range(10):
+    i = str(i)
+    f.write(i + '\n')
+    a.append(i)
+f.writelines(a)
+f.close()
