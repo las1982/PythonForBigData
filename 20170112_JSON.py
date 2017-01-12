@@ -1,10 +1,5 @@
-# raw_input('jljl')
+import json as j
 
-f = open('testRW.txt', 'a+')
-a = []
-for i in range(10):
-    i = str(i)
-    f.write(i + '\n')
-    a.append(i)
-f.writelines(a)
-f.close()
+i = [1,2,3]
+
+print j.dumps(i)
