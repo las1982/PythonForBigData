@@ -5,3 +5,6 @@ class ClassName:
     def f(self):
         return 'hello world'
 
+a = ClassName()
+
+print a.f()
