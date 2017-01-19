@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fca88b4a-289c-4369-b56e-f0271d2d1467" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170119_OOP_inheritance_2.py" afterPath="$PROJECT_DIR$/20170119_OOP_inheritance_2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170119_OOP_inheritance.py" afterPath="$PROJECT_DIR$/20170119_OOP_inheritance.py" />
     </list>
     <ignored path="PythonForBigData.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,8 +22,8 @@
     <SUITE FILE_PATH="coverage/PythonForBigData$20170117_OOP.coverage" NAME="20170117_OOP Coverage Results" MODIFIED="1484640008034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170110.coverage" NAME="20170110 Coverage Results" MODIFIED="1484034144838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$111.coverage" NAME="111 Coverage Results" MODIFIED="1484659331973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonForBigData$20170119_OOP_inheritance.coverage" NAME="20170119_OOP_inheritance Coverage Results" MODIFIED="1484809827070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170119_OOP_inheritance_1.coverage" NAME="20170119_OOP_inheritance_1 Coverage Results" MODIFIED="1484811112106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonForBigData$20170119_OOP_inheritance.coverage" NAME="20170119_OOP_inheritance Coverage Results" MODIFIED="1484812859195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170112.coverage" NAME="20170112 Coverage Results" MODIFIED="1484201469458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$test.coverage" NAME="test Coverage Results" MODIFIED="1484028442935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170119_OOP.coverage" NAME="20170119_OOP Coverage Results" MODIFIED="1484808465986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -39,11 +39,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="20170119_OOP_inheritance.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="20170119_OOP_inheritance.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/20170119_OOP_inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            <state relative-caret-position="255">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -59,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20170119_OOP_inheritance_2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="20170119_OOP_inheritance_2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20170119_OOP_inheritance_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="272">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -112,9 +112,9 @@
         <option value="$PROJECT_DIR$/20170117_OOP.py" />
         <option value="$PROJECT_DIR$/111.py" />
         <option value="$PROJECT_DIR$/20170119_OOP.py" />
-        <option value="$PROJECT_DIR$/20170119_OOP_inheritance.py" />
         <option value="$PROJECT_DIR$/20170119_OOP_inheritance_1.py" />
         <option value="$PROJECT_DIR$/20170119_OOP_inheritance_2.py" />
+        <option value="$PROJECT_DIR$/20170119_OOP_inheritance.py" />
       </list>
     </option>
   </component>
@@ -207,7 +207,7 @@
       <recent name="F:\1_Documents\1 САША\7_Data Science\PythonForBigData" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.20170119_OOP_inheritance_2">
+  <component name="RunManager" selected="Python.20170119_OOP_inheritance">
     <configuration default="false" name="111" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -534,9 +534,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.20170119_OOP_inheritance_2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.20170119_OOP_inheritance_1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.20170119_OOP_inheritance" />
+        <item index="0" class="java.lang.String" itemvalue="Python.20170119_OOP_inheritance" />
+        <item index="1" class="java.lang.String" itemvalue="Python.20170119_OOP_inheritance_2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.20170119_OOP_inheritance_1" />
         <item index="3" class="java.lang.String" itemvalue="Python.20170119_OOP" />
         <item index="4" class="java.lang.String" itemvalue="Python.111" />
       </list>
@@ -724,7 +724,14 @@
       <option name="project" value="LOCAL" />
       <updated>1484811146859</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="-">
+      <created>1484811294744</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1484811294744</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
@@ -900,14 +907,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20170119_OOP_inheritance_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestForSubmitting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -956,18 +955,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20170119_OOP_inheritance.py">
+    <entry file="file://$PROJECT_DIR$/20170119_OOP_inheritance_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        <state relative-caret-position="272">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20170119_OOP_inheritance_2.py">
+    <entry file="file://$PROJECT_DIR$/20170119_OOP_inheritance_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="391">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170119_OOP_inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
