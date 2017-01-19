@@ -1,6 +1,6 @@
 class A1:
     def __init__(self):
-        self.a = 1
+        self.a = 3
         self.__b = 1
 
 class A2:
@@ -15,3 +15,4 @@ class B(A1, A2):
 
 o = B()
 print o.__dict__
+
