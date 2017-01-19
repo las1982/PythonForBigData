@@ -33,5 +33,5 @@ for lst in dataFrame:
 
 f = open('test1.txt', 'w')
 for i in dataFrame1:
-	f.write('(' + i[0] + ', ' + i[1] + ', ' + i[2] + ', ' + i[3] + '),\n')
+	f.write('(' + i[0] + ', ' + i[1] + ', ' + i[2] + ', ' + i[3] + ', ' + str(1 if i[3] == "'99990101'" else 0) + ', ' + "'<Attributes/>'),\n")
 f.close()
