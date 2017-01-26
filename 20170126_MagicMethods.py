@@ -40,3 +40,4 @@ class A(object):
 o = A()
 o.x = 1
 print o.x
+print A.__dict__
