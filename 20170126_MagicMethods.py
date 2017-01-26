@@ -42,4 +42,4 @@ o.x = 1
 print o.x
 print A.__dict__
 
-# linux: red heat, centras
+# linux: red heat, centras <!!!, debian - for university
