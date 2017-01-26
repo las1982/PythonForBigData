@@ -12,3 +12,4 @@ print o.c
 print getattr(o, 'a', 'b')
 setattr(o, 'c', 3)
 print o.c
+print o__hasattr__('d')
