@@ -25,3 +25,18 @@ obj = A()
 obj.a = 1
 print obj.a
 obj.b = 1
+
+class A(object):
+    def __init__(self):
+        self.__a = None
+    def getx(self):
+        return self.__a
+    def setx(self, value):
+        self.__a = value
+    def delx(self):
+        del self.__a
+    x = property(getx, setx, delx, "'x' property")
+
+o = A()
+o.x = 1
+print o.x
