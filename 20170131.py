@@ -2,4 +2,15 @@ a = 1
 print eval("1 + a")
 print locals()
 print globals()
-print eval("1 + b")
+
+s = '''
+class A:
+    def m(self, a):
+        print self, a
+'''
+
+exec s
+print locals()
+# O = A()
+O = eval("A()")
+print O.m(2)
