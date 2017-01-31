@@ -32,3 +32,6 @@ import inspect
 
 print inspect.getargspec(f)
 print inspect.getargspec(f).args
+
+print isinstance(O, globals()['A'])
+print isinstance(O, A)
