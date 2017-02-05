@@ -34,5 +34,4 @@ for i in df:
         str = str + j + '\t'
     str = str + '\n'
     out.write(str)
-print df.__len__()
 out.close()
