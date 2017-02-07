@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fca88b4a-289c-4369-b56e-f0271d2d1467" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20170207_Log_Parsing_RegExp.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/20170202_RegExp_2.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chanels.py" afterPath="$PROJECT_DIR$/Chanels.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20170202_RegExp_1.py" afterPath="$PROJECT_DIR$/20170202_RegExp_1.py" />
     </list>
     <ignored path="PythonForBigData.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,13 +26,14 @@
     <SUITE FILE_PATH="coverage/PythonForBigData$test.coverage" NAME="test Coverage Results" MODIFIED="1484028442935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170112_Files.coverage" NAME="20170112_Files Coverage Results" MODIFIED="1484205250741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170124_OOP_exeptions.coverage" NAME="20170124_OOP_exeptions Coverage Results" MODIFIED="1485239055525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonForBigData$20161229_LogParsing.coverage" NAME="20161229_LogParsing Coverage Results" MODIFIED="1486149604000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonForBigData$20161229_LogParsing.coverage" NAME="20161229_LogParsing Coverage Results" MODIFIED="1486449259641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170110.coverage" NAME="20170110 Coverage Results" MODIFIED="1484034144838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170119_OOP_inheritance_1.coverage" NAME="20170119_OOP_inheritance_1 Coverage Results" MODIFIED="1484811112106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170112.coverage" NAME="20170112 Coverage Results" MODIFIED="1484201469458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonForBigData$20170207_Log_Parsing_RegExp.coverage" NAME="20170207_Log_Parsing_RegExp Coverage Results" MODIFIED="1486451827559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170119_OOP.coverage" NAME="20170119_OOP Coverage Results" MODIFIED="1484808465986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170202_RegExp.coverage" NAME="20170202_RegExp Coverage Results" MODIFIED="1486018303888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonForBigData$20170202_RegExp_1.coverage" NAME="20170202_RegExp_1 Coverage Results" MODIFIED="1486149613996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonForBigData$20170202_RegExp_1.coverage" NAME="20170202_RegExp_1 Coverage Results" MODIFIED="1486451824261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$Chanels.coverage" NAME="Chanels Coverage Results" MODIFIED="1486322383439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170126.coverage" NAME="20170126 Coverage Results" MODIFIED="1485416482015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonForBigData$20170131.coverage" NAME="20170131 Coverage Results" MODIFIED="1485846990200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -46,11 +49,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Chanels.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Chanels.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chanels.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="510">
+              <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20170207_Log_Parsing_RegExp.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20170207_Log_Parsing_RegExp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20170202_RegExp_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20170202_RegExp_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -100,10 +123,12 @@
         <option value="$PROJECT_DIR$/20170126_MagicMethods.py" />
         <option value="$PROJECT_DIR$/20170131.py" />
         <option value="$PROJECT_DIR$/20170202_RegExp.py" />
-        <option value="$PROJECT_DIR$/20170202_RegExp_1.py" />
         <option value="$PROJECT_DIR$/ChanelsIN.txt" />
         <option value="$PROJECT_DIR$/ChanelsOUT.txt" />
         <option value="$PROJECT_DIR$/Chanels.py" />
+        <option value="$PROJECT_DIR$/20170202_RegExp_2.py" />
+        <option value="$PROJECT_DIR$/20170202_RegExp_1.py" />
+        <option value="$PROJECT_DIR$/20170207_Log_Parsing_RegExp.py" />
       </list>
     </option>
   </component>
@@ -197,25 +222,7 @@
       <recent name="F:\1_Documents\1 САША\7_Data Science\PythonForBigData" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Chanels">
-    <configuration default="false" name="20170131" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonForBigData" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20170131.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.20170207_Log_Parsing_RegExp">
     <configuration default="false" name="20170202_RegExp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -284,6 +291,24 @@
       <module name="PythonForBigData" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chanels.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="20170207_Log_Parsing_RegExp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonForBigData" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20170207_Log_Parsing_RegExp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -516,19 +541,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Generators" />
-      <item index="1" class="java.lang.String" itemvalue="Python.20170131" />
-      <item index="2" class="java.lang.String" itemvalue="Python.20170202_RegExp" />
-      <item index="3" class="java.lang.String" itemvalue="Python.20170202_RegExp_1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.20161229_LogParsing" />
-      <item index="5" class="java.lang.String" itemvalue="Python.Chanels" />
+      <item index="1" class="java.lang.String" itemvalue="Python.20170202_RegExp" />
+      <item index="2" class="java.lang.String" itemvalue="Python.20170202_RegExp_1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.20161229_LogParsing" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Chanels" />
+      <item index="5" class="java.lang.String" itemvalue="Python.20170207_Log_Parsing_RegExp" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Chanels" />
+        <item index="0" class="java.lang.String" itemvalue="Python.20170207_Log_Parsing_RegExp" />
         <item index="1" class="java.lang.String" itemvalue="Python.20170202_RegExp_1" />
         <item index="2" class="java.lang.String" itemvalue="Python.20161229_LogParsing" />
-        <item index="3" class="java.lang.String" itemvalue="Python.20170202_RegExp" />
-        <item index="4" class="java.lang.String" itemvalue="Python.20170131" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Chanels" />
+        <item index="4" class="java.lang.String" itemvalue="Python.20170202_RegExp" />
       </list>
     </recent_temporary>
   </component>
@@ -545,20 +570,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483802133725</updated>
-    </task>
-    <task id="LOCAL-00007" summary="just commit message 3">
-      <created>1484027981263</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1484027981263</updated>
-    </task>
-    <task id="LOCAL-00008" summary="just commit message 3">
-      <created>1484028476736</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1484028476736</updated>
     </task>
     <task id="LOCAL-00009" summary="just commit message 3">
       <created>1484029929051</created>
@@ -889,7 +900,21 @@
       <option name="project" value="LOCAL" />
       <updated>1486322411024</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="-">
+      <created>1486322569915</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1486322569915</updated>
+    </task>
+    <task id="LOCAL-00057" summary="-">
+      <created>1486447751270</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1486447751270</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1176,14 +1201,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20170202_RegExp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ReadWriteFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1216,14 +1233,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20161229_LogParsing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/20161229_Split.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1236,14 +1245,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20170202_RegExp_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1264,10 +1265,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/20170103_LogParsing_by_teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20161229_LogParsing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="33" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chanels.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="510">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170202_RegExp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170202_RegExp_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20170207_Log_Parsing_RegExp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
           <folding />
         </state>
       </provider>

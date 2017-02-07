@@ -7,13 +7,15 @@ x = '([0-9]|[1-9][0-9]|1[0-9]{2}|2(5[0-5]|[0-4]\d))'
 IpRegExp = "(" + x + "\.){3}" + x
 aa = re.finditer(IpRegExp, str)
 lst = []
-print aa
+# print dir(aa.next())
+print aa.next().group()
+print aa.next().group()
 for i in aa:
     lst.append(i.group())
 print lst
 
 
-
+print re.search('\[.*S.*\]', 'sdhkf hs [  S    ] fgldfsj').group()
 
 
 
