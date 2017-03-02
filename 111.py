@@ -1,13 +1,12 @@
 import pandas as pd
-#
-#
-# a = pd.read_csv('cs1.csv')
-# b = pd.read_csv('cs2.csv')
-#
-# print a
-# print b
+
+
+a = pd.read_csv('cs1.csv')
+b = pd.read_csv('cs2.csv')
+
+print a
+print b
 # print (a != b).any(1)
-# diff_pd()
 
 import pandas as pd
 import numpy as np
@@ -49,4 +48,4 @@ DF2 = StringIO("""id   Name   score                    isEnrolled           Comm
 113  Zoe    NaN                     False                "On vacation" """)
 df1 = pd.read_table(DF1, sep='\s+', index_col='id')
 df2 = pd.read_table(DF2, sep='\s+', index_col='id')
-print diff_pd(df1, df2)
+print diff_pd(a, b)
