@@ -49,3 +49,8 @@ DF2 = StringIO("""id   Name   score                    isEnrolled           Comm
 df1 = pd.read_table(DF1, sep='\s+', index_col='id')
 df2 = pd.read_table(DF2, sep='\s+', index_col='id')
 print diff_pd(a, b)
+
+import numpy as np
+
+
+np.
