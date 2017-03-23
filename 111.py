@@ -1,25 +1,36 @@
-import pandas as pd
+import re
+from bs4 import BeautifulSoup as BS
 
 
-a = pd.read_csv('cs1.csv')
-b = pd.read_csv('cs2.csv')
+html = ''
+with open('111.html') as f:
+    for line in f:
+        html += line
 
-print a.ix[:, 4:]
+f = re.findall("<.*>Color by:.*<span.*span>", html, flags=re.DOTALL)
+f = re.findall("<.|\n*>", html)
+f = re.findall("(Color by:){1}(\n|.)*(<span.*span>)*", html)
+f = re.findall("((Color by:)((\n|.){0,100})(<span.*span>))", html)
 
-a = [
-     ('fdgfsdg', 'sdgjsrg', 'hsd', 'rgrse', 'h', 'gs', 'hsd', 'hw', 'er', 'ges', 'g', 'hrs')
-    ,('fdgfsdg', 'wewe', 'hsd', 'hgsd', 'h', 'gs', 'hsd', 'hw', 'er', 'ges', 'g', 'hrs')
-]
-b = [
-     ('fdgfsdg', 'sdgjsrg', 'hsd', 'rgrse', 'h', 'gs', 'hsd', 'hw', 'er', 'ges', 'g', 'hrs')
-    ,('fdgfsdg', 'wewe', 'hsd', 'hgsd', 'h', 'gs', 'hsd', 'hw', 'er', 'ges', 'g', 'hrs')
-    ,('fdgfsdg', 'fdshgs', 'hsd', 'rgrse', 'h', 'gs', 'hsd', 'hw', 'er', 'ges', 'g', 'hrs')
-    ,('fdgfsdg', 'wewe', 'hsd', 'erhth', 'h', 'gs', 'hsd', 'hw', 'er', 'ges', 'g', 'hrs')
-]
 
-a = set(a)
-b = set(b)
-# print (a != b).any(1)
-print (a - b) | (b - a)
-print b ^ a
-# https://docs.python.org/2/library/sets.html
+# f = re.findall("<.+>Color by:[.\t\n\r]*<span.*span>", html)
+# f = re.findall("<.+>Color by:<span.*span>", html)
+print len(f)
+print len(f[0])
+print f
+
+# print len(f)
+# for i in f:
+#     print i
+
+
+# controls = []
+# for el in f:
+#     c = el.strip().split('\n')
+#     soup = BS(c[0], "html.parser")
+#     name = soup.text
+#     soup = BS(c[1], "html.parser")
+#     id = soup('span', id=True)[0]['id']
+#     controls.append((name, id))
+#     print name, id
+
