@@ -4,10 +4,10 @@ class P:
     def f(self):
         print 'hello'
 
-P.__dict__
-o = P()
-o.f()
-o.__dict__
+# P.__dict__
+# o = P()
+# o.f()
+# o.__dict__
 
 class C(P):
     def __init__(self):
