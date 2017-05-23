@@ -17,7 +17,7 @@ print map((lambda x: x **2), items)
 
 
 def square(x):
-        return (x**2)
+    return (x**2)
 def cube(x):
         return (x**3)
 
