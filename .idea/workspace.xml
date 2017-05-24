@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fca88b4a-289c-4369-b56e-f0271d2d1467" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Yandex_ML/1.2/1.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/PythonForBigData.iml" afterPath="$PROJECT_DIR$/.idea/PythonForBigData.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yandex_ML/1.2/1.2_Важность признаков.py" afterPath="$PROJECT_DIR$/Yandex_ML/1.2/1.2_Важность признаков.py" />
     </list>
@@ -72,8 +69,8 @@
       <file leaf-file-name="1.2_Важность признаков.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Yandex_ML/1.2/1.2_Важность признаков.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            <state relative-caret-position="238">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -148,8 +145,8 @@
         <option value="$PROJECT_DIR$/Yandex_ML/1.1/5.txt" />
         <option value="$PROJECT_DIR$/Yandex_ML/1.1/1.1_Предобработка данных в Pandas.py" />
         <option value="$PROJECT_DIR$/Yandex_ML/1.2/1.2.py" />
-        <option value="$PROJECT_DIR$/Yandex_ML/1.2/1.2_Важность признаков.py" />
         <option value="$PROJECT_DIR$/Yandex_ML/1.2/1.txt" />
+        <option value="$PROJECT_DIR$/Yandex_ML/1.2/1.2_Важность признаков.py" />
       </list>
     </option>
   </component>
@@ -609,13 +606,6 @@
       <option name="presentableId" value="Default" />
       <updated>1483802133725</updated>
     </task>
-    <task id="LOCAL-00020" summary="-">
-      <created>1484640024505</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1484640024505</updated>
-    </task>
     <task id="LOCAL-00021" summary="-">
       <created>1484806165456</created>
       <option name="number" value="00021" />
@@ -952,7 +942,14 @@
       <option name="project" value="LOCAL" />
       <updated>1495583798350</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="-">
+      <created>1495646870449</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1495646870449</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1010,7 +1007,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="13" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1341,8 +1338,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Yandex_ML/1.2/1.2_Важность признаков.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        <state relative-caret-position="238">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

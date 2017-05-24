@@ -1,5 +1,4 @@
 import pandas
-import numpy as np
 from sklearn.tree import DecisionTreeClassifier
 
 data = pandas.read_csv('../1.1/titanic.csv', index_col='PassengerId')
