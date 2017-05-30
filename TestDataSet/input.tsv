@@ -1,0 +1,93 @@
+ini	/	sAttr100										e
+ini	/1/					sAttr1						e
+inp	/1/											2sAttr2e
+res	/1/					sAttr1					e
+ini	/2/					sAttr1						e
+inp	/2/								2sAttr2			e
+res	/2/					sAttr1		e
+ini	/3/					sAttr1						e
+inp	/3/					2sAttr2						e
+res	/3/
+ini	/4/					sAttr1						e
+inp	/4/				2sAttr2							e
+res	/4/
+ini	/5/					sAttr1						e
+inp	/5/						2sAttr2				e
+res	/5/					sAttr1e						sAttr1e
+ini	/6/					sAttr1						e
+inp	/6/						2sAttr2			e
+res	/6/					sAttr1e					sAttr1	e
+ini	/7/					sAttr1						e
+inp	/7/					2sAttr2					e
+res	/7/											sAttr1e
+ini	/8/					sAttr1						e
+inp	/8/				2sAttr2						e
+res	/8/											sAttr1e
+ini	/9/					sAttr1						e
+inp	/9/					2sAttr2				e
+res	/9/										sAttr1	e
+ini	/10/					sAttr1						e
+inp	/10/				2sAttr2					e
+res	/10/										sAttr1	e
+
+ini	/11/				sAttr1						e
+inp	/11/											2sAttr2e
+res	/11/				sAttr1						e
+ini	/12/				sAttr1						e
+inp	/12/								2sAttr2			e
+res	/12/				sAttr1			e
+ini	/13/				sAttr1						e
+inp	/13/				2sAttr2							e
+res	/13/
+ini	/14/				sAttr1						e
+inp	/14/			2sAttr2								e
+res	/14/
+ini	/15/				sAttr1						e
+inp	/15/						2sAttr2				e
+res	/15/				sAttr1	e
+ini	/16/				sAttr1						e
+inp	/16/						2sAttr2			e
+res	/16/				sAttr1	e					sAttr1e
+ini	/17/				sAttr1						e
+inp	/17/				2sAttr2						e
+res	/17/
+ini	/18/				sAttr1						e
+inp	/18/			2sAttr2							e
+res	/18/
+ini	/19/				sAttr1						e
+inp	/19/				2sAttr2					e
+res	/19/										sAttr1e
+ini	/20/				sAttr1						e
+inp	/20/			2sAttr2						e
+res	/20/										sAttr1e
+
+ini	/21/			sAttr1						e
+inp	/21/											2sAttr2e
+res	/21/			sAttr1						e
+ini	/22/			sAttr1						e
+inp	/22/								2sAttr2			e
+res	/22/			sAttr1				e
+ini	/23/			sAttr1						e
+inp	/23/			2sAttr2								e
+res	/23/
+ini	/24/			sAttr1						e
+inp	/24/		2sAttr2									e
+res	/24/
+ini	/25/			sAttr1						e
+inp	/25/						2sAttr2				e
+res	/25/			sAttr1		e
+ini	/26/			sAttr1						e
+inp	/26/						2sAttr2			e
+res	/26/			sAttr1		e
+ini	/27/			sAttr1						e
+inp	/27/			2sAttr2							e
+res	/27/
+ini	/28/			sAttr1						e
+inp	/28/		2sAttr2								e
+res	/28/
+ini	/29/			sAttr1						e
+inp	/29/			2sAttr2						e
+res	/29/
+ini	/30/			sAttr1						e
+inp	/30/		2sAttr2							e
+res	/30/
