@@ -3,7 +3,7 @@ def aa(a):
         try:
             print 1.0 / i, i
         except:
-            print 'exeption'
+            print 'exception'
             aa(1)
             continue
 
