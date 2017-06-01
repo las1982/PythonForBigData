@@ -6,5 +6,6 @@ def aa(a):
             print 'exception'
             aa(1)
             continue
+        print i
 
 aa(0)
