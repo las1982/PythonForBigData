@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fca88b4a-289c-4369-b56e-f0271d2d1467" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PandasEPAM/161004sprd.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PandasEPAM/161005sprd.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/PandasEPAM/20170606.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/PandasEPAM/dfgd.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PandasEPAM/dfgd.py" afterPath="$PROJECT_DIR$/PandasEPAM/dfgd.py" />
     </list>
     <ignored path="PythonForBigData.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -80,8 +83,8 @@
       <file leaf-file-name="20170601.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PandasEPAM/20170601.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -89,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dfgd.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PandasEPAM/dfgd.py">
+      <file leaf-file-name="20170606.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PandasEPAM/20170606.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            <state relative-caret-position="51">
+              <caret line="3" column="94" lean-forward="true" selection-start-line="3" selection-start-column="94" selection-end-line="3" selection-end-column="94" />
               <folding />
             </state>
           </provider>
@@ -171,6 +174,7 @@
         <option value="$PROJECT_DIR$/Yandex_ML/1.2/1.2_Важность признаков.py" />
         <option value="$PROJECT_DIR$/PandasEPAM/20170601.py" />
         <option value="$PROJECT_DIR$/PandasEPAM/dfgd.py" />
+        <option value="$PROJECT_DIR$/PandasEPAM/20170606.py" />
       </list>
     </option>
   </component>
@@ -271,25 +275,7 @@
       <recent name="F:\1_Documents\1 САША\7_Data Science\PythonForBigData" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dfgd">
-    <configuration default="false" name="1.1_Предобработка данных в Pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Yandex_ML" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonForBigData" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\1_Documents\1 САША\7_Data Science\PythonForBigData\Yandex_ML\1.1\1.1_Предобработка данных в Pandas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.20170606">
     <configuration default="false" name="1.1_Предобработка данных в Pandas (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,6 +344,24 @@
       <module name="PythonForBigData" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PandasEPAM/dfgd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="20170606" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PandasEPAM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonForBigData" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PandasEPAM/20170606.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -523,19 +527,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.Generators" />
-      <item index="1" class="java.lang.String" itemvalue="Python.1.1_Предобработка данных в Pandas" />
-      <item index="2" class="java.lang.String" itemvalue="Python.1.1_Предобработка данных в Pandas (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.1.2_Важность признаков" />
-      <item index="4" class="java.lang.String" itemvalue="Python.20170601" />
-      <item index="5" class="java.lang.String" itemvalue="Python.dfgd" />
+      <item index="1" class="java.lang.String" itemvalue="Python.1.1_Предобработка данных в Pandas (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.1.2_Важность признаков" />
+      <item index="3" class="java.lang.String" itemvalue="Python.20170601" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dfgd" />
+      <item index="5" class="java.lang.String" itemvalue="Python.20170606" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.dfgd" />
-        <item index="1" class="java.lang.String" itemvalue="Python.20170601" />
-        <item index="2" class="java.lang.String" itemvalue="Python.1.2_Важность признаков" />
-        <item index="3" class="java.lang.String" itemvalue="Python.1.1_Предобработка данных в Pandas (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1.1_Предобработка данных в Pandas" />
+        <item index="0" class="java.lang.String" itemvalue="Python.20170606" />
+        <item index="1" class="java.lang.String" itemvalue="Python.dfgd" />
+        <item index="2" class="java.lang.String" itemvalue="Python.20170601" />
+        <item index="3" class="java.lang.String" itemvalue="Python.1.2_Важность признаков" />
+        <item index="4" class="java.lang.String" itemvalue="Python.1.1_Предобработка данных в Pandas (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -552,13 +556,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1483802133725</updated>
-    </task>
-    <task id="LOCAL-00025" summary="-">
-      <created>1484811294744</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1484811294744</updated>
     </task>
     <task id="LOCAL-00026" summary="-">
       <created>1484812868904</created>
@@ -896,7 +893,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496343399739</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="-">
+      <created>1496346082070</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1496346082070</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TodoView">
@@ -910,13 +914,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="610" y="0" width="1303" height="1047" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2118577" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2118577" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3298731" sideWeight="0.49701494" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34901533" sideWeight="0.55098814" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3180363" sideWeight="0.47755742" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3245243" sideWeight="0.47761193" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3238512" sideWeight="0.47761193" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34901533" sideWeight="0.44901186" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.3298731" sideWeight="0.48507464" order="10" side_tool="false" content_ui="tabs" />
@@ -959,13 +963,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20170112_JSON.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/111.ipynb" />
     <entry file="file://$PROJECT_DIR$/20170124_Game.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1258,26 +1255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yandex_ML/1.1/1.1_Предобработка данных в Pandas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="112" lean-forward="false" selection-start-line="14" selection-start-column="112" selection-end-line="14" selection-end-column="112" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PandasEPAM/20170601.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Yandex_ML/1.2/1.2_Важность признаков.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1292,6 +1269,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yandex_ML/1.1/1.1_Предобработка данных в Pandas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="112" lean-forward="false" selection-start-line="14" selection-start-column="112" selection-end-line="14" selection-end-column="112" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEPAM/20170601.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PandasEPAM/20170606.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="94" lean-forward="true" selection-start-line="3" selection-start-column="94" selection-end-line="3" selection-end-column="94" />
           <folding />
         </state>
       </provider>
