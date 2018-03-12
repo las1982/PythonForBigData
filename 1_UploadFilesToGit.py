@@ -3,14 +3,14 @@ from selenium.webdriver.common.keys import Keys
 import glob
 import time
 
-login = r'las1982'
-password = r'Hgrdhhgf57g'
-repository = [r'PythonForBigData', r'SpotfireReportTesting']
-folderWithFiles = r'C:\Users\dhql\Documents\0_Study\PythonForBigData\SpotfireReportTesting'
+login = r''
+password = r''
+repository = [r'', r'']
+folderWithFiles = r''
 
 opts = webdriver.ChromeOptions()
 opts.binary_location = "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
-driver = webdriver.Chrome(chrome_options=opts, executable_path = "C:\Users\dhql\Downloads\chromedriver.exe")
+driver = webdriver.Chrome(chrome_options=opts, executable_path = "C:\Users\fff\Downloads\chromedriver.exe")
 driver.set_window_position(0, 0)
 driver.get(r'https://github.com/login')
 driver.find_element_by_id('login_field').send_keys(login)
